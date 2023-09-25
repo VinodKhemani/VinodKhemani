@@ -13,20 +13,20 @@
 
 - 👯 I’m looking to collaborate on **Various Software Developing Projects**
 
-- 👨‍💻 All of my projects are available at [https://vinodkhemani.netlify.app/](https://vinodkhemani.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/VinodKhemani](https://github.com/VinodKhemani)
 
 - 💬 Ask me about **Web Development & Software Developments related to Web App**
 
 - 📫 How to reach me **vinodkhemani9252@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/VinodKhemani](https://github.com/VinodKhemani)
+- 📄 Know about my experiences [https://vinodkhemani.netlify.app/](https://vinodkhemani.netlify.app/)
 
 - ⚡ Fun fact **I think I am funny and make my surroundings happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vinod_khemani6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinod_khemani6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinod khemani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinod khemani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/vinod-khemani-5790a1222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vinod-khemani-5790a1222" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
